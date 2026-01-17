@@ -1,2 +1,3 @@
 # tark_demo
-this is my first github project
+this is my first git repository
+Auther - TARK PATEL
